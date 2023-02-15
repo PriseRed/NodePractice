@@ -1,0 +1,7 @@
+{
+    "name": "LearnNodeJS",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node app8.js"
+    }
+}
